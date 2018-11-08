@@ -1,5 +1,7 @@
 package bean;
-
+/**
+这只是一个测试的文档说明，我在远程仓库已更改代码，测试是否可以更新下来
+*/
 public class User {
 	private int id;
 	private String user_name;
