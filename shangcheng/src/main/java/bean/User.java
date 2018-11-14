@@ -1,7 +1,9 @@
 package bean;
 
 /**
- * 
+ * sssssssss
+ * ssssss
+ * ssss
  */
 public class User {
 	private int id;
